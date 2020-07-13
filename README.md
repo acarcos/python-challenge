@@ -21,7 +21,7 @@ Both of these challenges encompasses a real-world situation where your newfound 
 
 ## PyBank
 
-![Revenue](Images/revenue-per-lead.png)
+![Revenue](images/revenue-per-lead.png)
 
 * In this challenge, you are tasked with creating a Python script for analyzing the financial records of your company. You will give a set of financial data called [budget_data.csv](PyBank/Resources/budget_data.csv). The dataset is composed of two columns: `Date` and `Profit/Losses`. (Thankfully, your company has rather lax standards for accounting so the records are simple.)
 
@@ -53,7 +53,7 @@ Both of these challenges encompasses a real-world situation where your newfound 
 
 ## PyPoll
 
-![Vote-Counting](Images/Vote_counting.png)
+![Vote-Counting](images/Vote_counting.png)
 
 * Py (Up until now, Uncle Cleetus had been trustfully tallying them one-by-one, but unfortunately, his concentration isn't what it used to be.)
 
